@@ -103,7 +103,7 @@ async def account_login(bot: Client, m: Message):
     cr = input2.text
     resp = s.get(f'https://api.classplusapp.com/v2/course/content/get?courseId={cr}', headers=headers)
     print(resp.content)
-    b_data = resp.json()['data']['courseContent']
+    b_data = resp.txt()['data']['courseContent']
     cool = ""
     for data in b_data:
         id1 = data['id']
