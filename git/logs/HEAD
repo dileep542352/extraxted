@@ -1,0 +1,8 @@
+0000000000000000000000000000000000000000 f0aa74c21ebc4b6895f5c8e68a2dcd95434c99d7 Your Name <you@example.com> 1667487366 +0530	commit (initial): first commit
+f0aa74c21ebc4b6895f5c8e68a2dcd95434c99d7 0000000000000000000000000000000000000000 Your Name <you@example.com> 1667487461 +0530	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 f0aa74c21ebc4b6895f5c8e68a2dcd95434c99d7 Your Name <you@example.com> 1667487461 +0530	Branch: renamed refs/heads/master to refs/heads/main
+f0aa74c21ebc4b6895f5c8e68a2dcd95434c99d7 2fa820409bc759f0914d31a354bef02b141ff009 Your Name <you@example.com> 1667537784 +0530	commit: first commit
+2fa820409bc759f0914d31a354bef02b141ff009 fc2d746559201d13b175de456bb39ba3d4311d6e Your Name <you@example.com> 1667538298 +0530	commit: first commit
+fc2d746559201d13b175de456bb39ba3d4311d6e 3b73c405d148cb7300a421844a0ada8d7970eafa Your Name <you@example.com> 1667568794 +0530	commit: first commit
+3b73c405d148cb7300a421844a0ada8d7970eafa 59e8d77b756ccd21a1d9079a2bc5f5e9df665f0c Your Name <you@example.com> 1667568822 +0530	commit: first commit
+59e8d77b756ccd21a1d9079a2bc5f5e9df665f0c d5caa6d5c61546369884f0787943a8752b4d4446 Your Name <you@example.com> 1667568870 +0530	commit: first commit
